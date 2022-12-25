@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb9421d4.css",
+    "main.js": "/static/js/main.cb3b71ca.js",
+    "static/media/case-study-4.png": "/static/media/case-study-4.f2a8ce3be0f1c659750b.png",
+    "static/media/case-study-5.png": "/static/media/case-study-5.95b76ab8fc3205d2407c.png",
+    "static/media/laptop-poses.png": "/static/media/laptop-poses.419ee4e14cd4791174fd.png",
+    "static/media/case-study-6.png": "/static/media/case-study-6.804bba58991bee0af806.png",
+    "static/media/window.png": "/static/media/window.83f5880bb324113b3bad.png",
+    "static/media/line-9.png": "/static/media/line-9.29cdf175caa4a2e5464c.png",
+    "static/media/logo.svg": "/static/media/logo.a1a385acd262ed4df9f708c26b642658.svg",
+    "static/media/brightness-high.svg": "/static/media/brightness-high.41742d8f9bb1070afc2e.svg",
+    "index.html": "/index.html",
+    "static/media/moon-fill.svg": "/static/media/moon-fill.9b943b998a06a12d76d3.svg",
+    "main.bb9421d4.css.map": "/static/css/main.bb9421d4.css.map",
+    "main.cb3b71ca.js.map": "/static/js/main.cb3b71ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9421d4.css",
+    "static/js/main.cb3b71ca.js"
+  ]
+}
